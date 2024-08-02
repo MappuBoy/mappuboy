@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navod Amarasinghe</h1>
-<h3 align="center">I am Quality Assurance Professional with strong manual testing and automation skills, adept at designing test plans, developing automated scripts, and ensuring high-quality software delivery.</h3>
+<h3 align="center">I am a Quality Assurance Professional with strong manual testing and automation skills, adept at designing test plans, developing automated scripts, and ensuring high-quality software delivery.</h3>
 
 - 🌱 I’m currently practicing **selenium**
 
