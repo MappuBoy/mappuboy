@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navod Amarasinghe</h1>
 <h3 align="center">I am undergraduate in software engineering at institute of java software engineering at Panadura Sri Lanka. I am a hardworking and highly motivated person with passion to create new things.</h3>
 
-- 🌱 I’m currently learning **reactnative**
+- 🌱 I’m currently practicing **selenium**
 
-- 👨‍💻 All of my projects are available at [https://malithnamarasinghe.000webhostapp.com//](https://malithnamarasinghe.000webhostapp.com//)
-
-- 💬 Ask me about **java, springmvc, mysql, and web**
+- 💬 Ask me about **testing, selenium, mysql, and API**
 
 - 📫 How to reach me **pituvaraliyange@gmail.com**
 
